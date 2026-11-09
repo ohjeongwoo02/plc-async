@@ -1,0 +1,11 @@
+{
+  "port": "COM5",
+  "baudrate": 9600,
+  "bytesize": 8,
+  "parity": "N",
+  "stopbits": 1,
+  "station": 1,
+  "timeout": 2.0,
+  "retries": 0,
+  "poll_interval": 1.0
+}
